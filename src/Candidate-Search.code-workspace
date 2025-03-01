@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Candidate-Search"
+		},
+		{
+			"path": "../environment"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
